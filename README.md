@@ -3,6 +3,8 @@
 email: nickcarnevale2@gmail.com  
 linkedin: https://www.linkedin.com/in/nicholas-carnevale-129348185/
 
+Actively looking for a fulltime position once I graduate in May 2025!
+
 <!--
 **nickcarnevale/nickcarnevale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
