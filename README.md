@@ -8,7 +8,7 @@ Actively looking for a fulltime position once I graduate in May 2025!
 Read my [resume](Nick-Carnevale-Resume.pdf)!
 
 <h3 align="left">Views:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickcarnevale&label=Profile%20views&color=blueviolet&style=flat" alt="nickcarnevale views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickcarnevale&label=Profile%20views&color=0e75b6&style=flat" alt="nickcarnevale views" /> </p>
 
 <!--
 **nickcarnevale/nickcarnevale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
