@@ -3,7 +3,7 @@
 email: nickcarnevale2@gmail.com  
 linkedin: https://www.linkedin.com/in/nicholas-carnevale-129348185/
 
-Actively looking for a fulltime position once I graduate in May 2025! Feel free to contact me by email.
+I am a rising senior at Lehigh University pursuing a bachelors degree in Computer Science and Business. I am actively looking for a fulltime position once I graduate in May 2025! Feel free to contact me by email.
 
 Read my [resume](Nick-Carnevale-Resume.pdf)!
 
