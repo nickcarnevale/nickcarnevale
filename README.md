@@ -7,7 +7,7 @@ I am a rising senior at Lehigh University pursuing a bachelors degree in Compute
 
 Read my [resume](Nick-Carnevale-Resume.pdf)!
 
-<h3 align="left">Views:</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickcarnevale&label=Profile%20views&color=0e75b6&style=flat" alt="nickcarnevale views" /> </p>
 
 <!--
