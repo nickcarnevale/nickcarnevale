@@ -1,4 +1,4 @@
-## Hi there 👋       
+## Hi there 👋        
     
 email: nickcarnevale2@gmail.com  
 linkedin: https://www.linkedin.com/in/nicholas-carnevale-129348185/
