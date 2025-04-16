@@ -1,11 +1,8 @@
-## Hi there 👋                                                        
+## Hi 👋                                                        
 email: nickcarnevale2@gmail.com   
 linkedin: https://www.linkedin.com/in/nicholascarnevale/
 
-I am a rising senior at Lehigh University pursuing a bachelors degree in Computer Science and Business. I am actively looking for a fulltime position once I graduate in May 2025! Feel free to contact me by email.
-
 Check out my resume within this repo!
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickcarnevale&label=Profile%20views&color=0e75b6&style=flat" alt="nickcarnevale views" /> </p>
 
