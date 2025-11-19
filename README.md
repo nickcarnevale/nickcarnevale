@@ -14,4 +14,4 @@ I am currently working at [Inca Digital](https://inca.digital/).
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,aws,docker,postgres,mysql,mongodb,dynamodb,git,github,js,ts,npm,react,nodejs,materialui,kubernetes,vscode,postman,appwrite,discord,flask,gmail,html,java,linkedin,md,vue,apple,linux )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,docker,postgres,mysql,mongodb,dynamodb,git,github,js,ts,npm,react,nodejs,tailwind,materialui,kubernetes,vscode,postman,appwrite,discord,flask,gmail,html,java,linkedin,md,vue,apple,linux )](https://skillicons.dev)
