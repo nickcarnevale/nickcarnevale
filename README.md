@@ -1,22 +1,17 @@
-## Hi 👋                                                                   
-email: nickcarnevale2@gmail.com   
-linkedin: https://www.linkedin.com/in/nicholascarnevale/
+# Hi 👋 
 
-Check out my resume within this repo!
+![Profile Views](https://komarev.com/ghpvc/?username=nickcarnevale&label=Profile%20views&color=0e75b6&style=flat)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nicholascarnevale/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickcarnevale&label=Profile%20views&color=0e75b6&style=flat" alt="nickcarnevale views" /> </p>
+<br>
 
-<!--
-**nickcarnevale/nickcarnevale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Nicholas Carnevale**.
 
-Here are some ideas to get you started:
+I'm a Data Engineer and Blockchain Researcher. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+I am currently working at [Inca Digital](https://inca.digital/).
+
+
+## Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,aws,docker,postgres,mysql,mongodb,dynamodb,git,github,js,ts,npm,react,nodejs,materialui,kubernetes,vscode,postman,appwrite,discord,flask,gmail,html,java,linkedin,md,vue,apple,linux )](https://skillicons.dev)
