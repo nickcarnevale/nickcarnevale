@@ -4,12 +4,7 @@
 
 <br>
 
-Hi, I'm **Nicholas Carnevale**.
-
-I'm a Data Engineer and Blockchain Researcher. 
-
-I am currently working at [Inca Digital](https://inca.digital/).
-
+Currently, I am a Data Engineer and Blockchain Researcher working in [Inca Digital's](https://inca.digital/) R&D Team. 
 
 ## Languages and Tools
 
